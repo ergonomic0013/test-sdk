@@ -4,6 +4,6 @@ namespace Sdk\Services;
 
 class Service
 {
-    private const BRANCH = 'feature/mpm-0010';
+    private const BRANCH = 'feature/mpm-0010-1';
 
 }

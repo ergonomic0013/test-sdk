@@ -1,0 +1,17 @@
+{
+    "name": "nemchenko/test-sdk",
+    "description": "test sdk",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Nemchenko\\TestSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "empty"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

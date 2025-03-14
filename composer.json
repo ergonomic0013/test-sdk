@@ -17,7 +17,7 @@
     ],
     "extra": {
         "branch-alias": {
-            "dev-feature/mpm-0004": "1.4-dev"
+            "dev-feature/mpm-0010": "1.10-dev"
         }
     }
 }

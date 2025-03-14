@@ -14,5 +14,10 @@
         {
             "name": "empty"
         }
-    ]
+    ],
+    "extra": {
+        "branch-alias": {
+            "dev-feature/mpm-0002": "1.2-dev"
+        }
+    }
 }
